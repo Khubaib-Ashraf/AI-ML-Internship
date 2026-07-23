@@ -1,0 +1,10 @@
+
+file = open("sample1.txt", "w")
+file.write("Welcome to Python\n")
+file.write("This is a sample file.\n")
+file.write("File handling is easy.\n")
+file.close()
+file = open("sample1.txt", "r")
+data = file.read()
+print(data)
+file.close()

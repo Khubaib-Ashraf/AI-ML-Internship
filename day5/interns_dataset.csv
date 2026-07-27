@@ -1,0 +1,31 @@
+Intern ID,Name,Department,Attendance Percentage,Tasks Assigned,Tasks Completed,Average Submission Time,Daily Learning Hours,Quiz Score
+INT001,Ali,AI,92,15,14,2.5,4.2,88
+INT002,Ahmed,ML,75,12,10,3.4,3.1,70
+INT003,Sara,Data Science,98,16,16,1.9,5.2,95
+INT004,Ayesha,AI,85,14,13,2.8,4.0,82
+INT005,Hassan,Cyber Security,78,13,11,3.2,3.5,74
+INT006,Zain,ML,88,15,14,2.4,4.6,90
+INT007,Maryam,Web Development,91,14,13,2.3,4.4,87
+INT008,Usman,Data Science,69,12,8,4.5,2.6,55
+INT009,Fatima,AI,96,16,16,1.8,5.5,97
+INT010,Bilal,ML,72,11,9,3.7,2.9,65
+INT011,Noor,Cyber Security,84,13,12,2.9,3.8,80
+INT012,Hamza,Web Development,89,15,14,2.6,4.3,91
+INT013,Hira,AI,67,10,6,4.8,2.1,49
+INT014,Danish,Data Science,94,16,15,2.1,5.0,93
+INT015,Amna,ML,81,13,11,3.0,3.7,78
+INT016,Saad,Cyber Security,76,12,10,3.5,3.0,69
+INT017,Laiba,AI,97,16,16,1.7,5.6,99
+INT018,Taha,Web Development,73,11,8,4.0,2.8,61
+INT019,Iqra,Data Science,90,15,14,2.5,4.5,89
+INT020,Omer,ML,86,14,13,2.7,4.1,84
+INT021,Kiran,Cyber Security,79,12,10,3.3,3.3,73
+INT022,Shayan,AI,95,16,15,2.0,5.1,94
+INT023,Zoya,Web Development,82,13,12,2.9,3.9,79
+INT024,Arham,Data Science,68,10,7,4.6,2.4,52
+INT025,Maham,ML,93,15,15,2.2,4.8,92
+INT026,Farhan,Cyber Security,74,11,9,3.8,2.9,66
+INT027,Eman,AI,87,14,13,2.6,4.2,85
+INT028,Rayan,Web Development,80,13,11,3.1,3.6,77
+INT029,Sana,Data Science,99,16,16,1.6,5.8,100
+INT030,Abdullah,ML,71,12,8,4.2,2.7,58
